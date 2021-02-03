@@ -30,3 +30,6 @@ from urizen.generators.buildings.building_mansion_symmetric import building_mans
 
 import urizen.generators.buildings.building_kitchengarden
 from urizen.generators.buildings.building_kitchengarden import building_kitchengarden
+
+import urizen.generators.buildings.building_bathhouse
+from urizen.generators.buildings.building_bathhouse import building_bathhouse
